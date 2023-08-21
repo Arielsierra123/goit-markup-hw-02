@@ -1,28 +1,50 @@
 .teclado {
-  width: 200;
-  height: 150;
+  width: 270px;
+  height: 260px;
+  flex-shrink: 0;
 }
 .tablet {
-  width: 200;
-  height: 150;
+  width: 270px;
+  height: 260px;
+  flex-shrink: 0;
 }
 .mario {
-  width: 200;
-  height: 150;
+  width: 270px;
+  height: 260px;
+  flex-shrink: 0;
 }
-.foto de ejemplo03 {
-  width: 200;
-  height: 150;
+.img4 {
+  width: 270px;
+  height: 260px;
+  flex-shrink: 0;
 }
-.foto de ejemplo04 {
-  width: 200;
-  height: 150;
+.img5 {
+  width: 270px;
+  height: 260px;
+  flex-shrink: 0;
 }
-.foto de ejemplo05 {
-  width: 200;
-  height: 150;
+.img6 {
+  width: 270px;
+  height: 260px;
+  flex-shrink: 0;
 }
-.foto de ejemplo06 {
-  width: 200;
-  height: 150;
+.img7 {
+  width: 270px;
+  height: 260px;
+  flex-shrink: 0;
+}
+.nav {
+  display: flex;
+}
+.navbar-brand {
+  margin-right: 93px;
+}
+.navigation__lis {
+  margin-right: 344px;
+  display: flex;
+  column-gap: 50px;
+}
+.contact__list {
+  display: flex;
+  column-gap: 50px;
 }
