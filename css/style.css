@@ -1,3 +1,23 @@
-.h2 {
-  color: black;
+.header-logo link {
+  background-color: #191b1c;
+}
+
+.header-link link {
+  background-color: #2196f3;
+}
+
+.clasetitulo {
+  color: rgba(255, 255, 255, 1);
+}
+
+.boton-principal {
+  background-color: blue;
+}
+
+.NuestroServicio {
+  background-color: #2196f3;
+}
+
+.fondo {
+  background-color: rgba(47, 48, 58, 1);
 }
